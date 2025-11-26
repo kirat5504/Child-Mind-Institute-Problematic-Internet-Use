@@ -45,8 +45,6 @@ https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-us
 
 ## project-structure
 
-<img width="191" height="237" alt="image" src="https://github.com/user-attachments/assets/5ad8cf18-1303-4ae7-942a-449f91104937" />
-
 
 ---
 ## data-preparation
